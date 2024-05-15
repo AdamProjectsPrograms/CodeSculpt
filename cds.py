@@ -3,5 +3,5 @@ import time
 import re
 
 tokensp = {
-    "KEYWORD_"
+    "KEYWORD_K"
 }
