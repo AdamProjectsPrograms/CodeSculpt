@@ -25,10 +25,14 @@ def lexer(code):
             mat = re.match(pattern, line)
             if mat != None:
                 PaT = 1
+                break
             else:
                 pass
             PaTnum += 1
+            
         if PaT == 1:
-            print(tokensp[PaTnum])
+            pp = list(tokensp.values())
+            print(re.compile(pp[PaTnum]))
         else:
             print(f"Unknown line: {line}")
+lexer(argv[1])
