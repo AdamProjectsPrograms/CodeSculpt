@@ -27,4 +27,5 @@ def lexer(code):
                 PaT = 1
             else:
                 pass
-            PaTnum 
+            PaTnum += 1
+            
