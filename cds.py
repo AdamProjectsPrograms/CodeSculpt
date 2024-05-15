@@ -15,4 +15,4 @@ tokensp = {
     "RAR": r"RAR",
     "ZIP": r"ZIP"
 }
-TJM_C = 
+TJM_C = 0
