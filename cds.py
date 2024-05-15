@@ -11,6 +11,6 @@ tokensp = {
     "INT": r"INT [0-9][0-9]h",
     "EXT": r"EXT",
     "TJM": r"TJM",
-    "SRV": r"SRV \"
+    "SRV": r"SRV \$[0]"
 }
 TJM_C = 
