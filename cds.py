@@ -4,5 +4,5 @@ import re
 
 tokensp = {
     "KEYWORD_KILL": r"KILL \*[0-9][0-9][0-9][0-9]",
-    "KEYWORD_ENAP"
+    "KEYWORD_ENAP": r""
 }
