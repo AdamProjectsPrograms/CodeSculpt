@@ -11,6 +11,6 @@ tokensp = {
     "INT": r"INT [0-9][0-9]h",
     "EXT": r"EXT",
     "TJM": r"TJM",
-    ""
+    "RJ"
 }
 TJM_C = 
