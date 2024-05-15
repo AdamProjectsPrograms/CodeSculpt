@@ -1,2 +1,3 @@
 from sys import argv
-import ti
+import time
+import
