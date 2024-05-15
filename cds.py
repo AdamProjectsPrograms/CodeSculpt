@@ -1,2 +1,2 @@
 from sys import argv
-fr
+import ti
