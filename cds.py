@@ -17,4 +17,5 @@ tokensp = {
 }
 TJM_C = 0
 def lexer(code):
-    for line in open(code, "r").readlines[]
+    for line in open(code, "r").readlines():
+        
