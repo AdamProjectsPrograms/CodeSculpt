@@ -18,7 +18,7 @@ tokensp = {
 TJM_C = 0
 def lexer(code):
     PaT = 0
-    PaTnum = 
+    PaTnum = 0
     for line in open(code, "r").readlines():
         for PAT in tokensp.values():
             if 
