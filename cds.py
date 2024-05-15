@@ -22,4 +22,4 @@ def lexer(code):
     for line in open(code, "r").readlines():
         for PAT in tokensp.values():
             pattern = re.compile(PAT)
-            mat = re.match(pa)
+            mat = re.match(pattern)
