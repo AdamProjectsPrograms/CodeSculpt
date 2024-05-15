@@ -1,1 +1,2 @@
-from sys import a
+from sys import argv
+fr
