@@ -31,4 +31,4 @@ def lexer(code):
         if PaT == 1:
             print(tokensp[PaTnum])
         else:
-            print(f"Unknown line")
+            print(f"Unknown line: ")
