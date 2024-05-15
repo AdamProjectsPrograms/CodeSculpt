@@ -1,7 +1,7 @@
 from sys import argv
 import time
 import re
-
+k
 tokensp = {
     "KEYWORD_KILL": r"KILL \*[0-9][0-9][0-9][0-9]",
     "KEYWORD_ENAP_T": r"ENAP \@1",
@@ -13,6 +13,6 @@ tokensp = {
     "TJM": r"TJM",
     "SRV": r"SRV \$[0-9] : [0-9][0-9]",
     "RAR": r"RAR",
-    "ZI"
+    "ZIP"
 }
 TJM_C = 
