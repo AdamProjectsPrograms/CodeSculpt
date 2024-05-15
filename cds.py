@@ -24,4 +24,4 @@ def lexer(code):
             pattern = re.compile(PAT)
             mat = re.match(pattern, line)
             if mat != None:
-                Pa
+                PaT
