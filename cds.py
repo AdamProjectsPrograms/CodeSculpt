@@ -16,5 +16,5 @@ tokensp = {
     "ZIP": r"ZIP"
 }
 TJM_C = 0
-def lexer(code)
+def lexer(code):
     
