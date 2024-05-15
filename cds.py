@@ -30,4 +30,5 @@ def lexer(code):
             PaTnum += 1
         if PaT == 1:
             print(tokensp[PaTnum])
-        els
+        else:
+            print
