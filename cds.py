@@ -1,7 +1,7 @@
 from sys import argv
 import time
 import re
-k
+import z
 tokensp = {
     "KEYWORD_KILL": r"KILL \*[0-9][0-9][0-9][0-9]",
     "KEYWORD_ENAP_T": r"ENAP \@1",
