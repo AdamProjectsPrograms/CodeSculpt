@@ -3,5 +3,5 @@ import time
 import re
 
 tokensp = {
-    "KEYWORD_K"
+    "KEYWORD_KILL"
 }
