@@ -5,4 +5,4 @@ os.system("git config --global user.name \"AdamProjectsPrograms\"")
 while True:
     os.system("git add *")
     os.system("git commit -m\"add\"")
-    os.system("git push")
+    os.system("git push")h
