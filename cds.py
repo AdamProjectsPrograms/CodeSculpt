@@ -25,4 +25,4 @@ def lexer(code):
             mat = re.match(pattern, line)
             if mat != None:
                 PaT = 1
-                
+            e
