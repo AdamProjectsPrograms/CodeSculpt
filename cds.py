@@ -21,4 +21,4 @@ def lexer(code):
     PaTnum = 0
     for line in open(code, "r").readlines():
         for PAT in tokensp.values():
-            if PAT 
+            if PAT
