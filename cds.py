@@ -26,4 +26,5 @@ def lexer(code):
             if mat != None:
                 PaT = 1
             else:
-                pas
+                pass
+                
