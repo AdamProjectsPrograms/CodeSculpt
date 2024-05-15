@@ -23,4 +23,4 @@ def lexer(code):
         for PAT in tokensp.values():
             pattern = re.compile(PAT)
             mat = re.match(pattern, line)
-            if mat !=
+            if mat != None
