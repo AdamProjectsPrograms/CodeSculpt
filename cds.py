@@ -29,4 +29,4 @@ def lexer(code):
                 pass
             PaTnum += 1
         if PaT == 1:
-            
+            print()
