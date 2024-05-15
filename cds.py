@@ -31,4 +31,4 @@ def lexer(code):
         if PaT == 1:
             print(tokensp[PaTnum])
         else:
-            print("u")
+            print("n")
