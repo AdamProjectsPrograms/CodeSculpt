@@ -13,6 +13,6 @@ tokensp = {
     "TJM": r"TJM",
     "SRV": r"SRV \$[0-9] : [0-9][0-9]",
     "RAR": r"RAR",
-    "ZIP": r"ZIP "
+    "ZIP": r"ZIP"
 }
 TJM_C = 
